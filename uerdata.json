@@ -40,6 +40,11 @@
         "key": "TESjdh18",
         "expirydate": "20-08-2025",
         "Allowoffline": false
-    }
-    
+    },
+    {
+        "device_id": "cc0307f8453c4f5c",
+        "key": "IMEI8255",
+        "expirydate": "20-08-2025",
+        "Allowoffline": false
+    },
 ]
