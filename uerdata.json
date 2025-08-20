@@ -76,5 +76,11 @@
         "key": "DATA",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e91b6ada67bc8480",
+        "key": "Channel",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
 ]
