@@ -70,5 +70,11 @@
         "key": "HALV",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0b131ab751213c12",
+        "key": "DATA",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
 ]
