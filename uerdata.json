@@ -100,5 +100,11 @@
         "key": "DkoQO",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6b3f14c18b5f361d",
+        "key": "UalQO",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
 ]
