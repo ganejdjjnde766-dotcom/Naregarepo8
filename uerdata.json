@@ -112,5 +112,11 @@
         "key": "Ihsg",
         "expirydate": "20-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "a2b1bfbc3881bb98",
+        "key": "OLLA1",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
+    },
 ]
