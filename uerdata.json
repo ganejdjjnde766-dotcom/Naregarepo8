@@ -88,5 +88,11 @@
         "key": "GOWPQ",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4d8d32c481e1e978",
+        "key": "DRQO",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
 ]
