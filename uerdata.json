@@ -82,5 +82,11 @@
         "key": "Channeldeletdahjsgs",
         "expirydate": "20-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4870196a4457e406",
+        "key": "GOWPQ",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
     }
 ]
