@@ -119,4 +119,11 @@
         "expirydate": "20-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "aed3e6a4bb90249f",
+        "key": "Mitra",
+        "expirydate": "22-09-2025",
+        "Allowoffline": false
+    },
+    
 ]
