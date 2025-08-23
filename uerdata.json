@@ -148,6 +148,12 @@
         "key": "MiaHa",
         "expirydate": "22-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ac4b13c79128fa4a",
+        "key": "QYAPZ",
+        "expirydate": "22-09-2025",
+        "Allowoffline": false
     }
     
     
