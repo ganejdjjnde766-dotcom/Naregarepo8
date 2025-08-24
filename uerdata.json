@@ -166,6 +166,12 @@
         "key": "HAOQV",
         "expirydate": "24-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "aa1aca46ce30b346",
+        "key": "HQOAQ",
+        "expirydate": "24-09-2025",
+        "Allowoffline": false
     }
     
     
