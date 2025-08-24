@@ -160,7 +160,13 @@
         "key": "GYAOHQ",
         "expirydate": "22-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "510d8229e1b4c229",
+        "key": "HAOQV",
+        "expirydate": "24-09-2025",
+        "Allowoffline": false
+    },
     
     
 ]
