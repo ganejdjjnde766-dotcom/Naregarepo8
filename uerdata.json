@@ -196,6 +196,12 @@
         "key": "HAIQP",
         "expirydate": "25-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "80f2cd8e08215528",
+        "key": "QUSPA",
+        "expirydate": "25-09-2025",
+        "Allowoffline": false
     }
     
     
