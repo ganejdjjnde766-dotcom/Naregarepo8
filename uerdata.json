@@ -178,7 +178,13 @@
         "key": "YQPSM",
         "expirydate": "24-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "8674c2ff22d56487",
+        "key": "HSOWQ",
+        "expirydate": "24-09-2025",
+        "Allowoffline": false
+    },
     
     
 ]
