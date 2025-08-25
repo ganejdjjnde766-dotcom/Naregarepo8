@@ -172,6 +172,12 @@
         "key": "HQOAQ",
         "expirydate": "24-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9470c5afd4be8426",
+        "key": "YQPSM",
+        "expirydate": "24-09-2025",
+        "Allowoffline": false
     }
     
     
