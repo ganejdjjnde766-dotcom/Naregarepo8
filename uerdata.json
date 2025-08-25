@@ -185,6 +185,12 @@
         "expirydate": "24-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "416145820f58422a",
+        "key": "PQISH",
+        "expirydate": "25-09-2025",
+        "Allowoffline": false
+    }
     
     
 ]
