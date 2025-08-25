@@ -202,6 +202,12 @@
         "key": "QUSPA",
         "expirydate": "25-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3b462f3520cc9aa0",
+        "key": "YQOSGX",
+        "expirydate": "25-09-2025",
+        "Allowoffline": false
     }
     
     
