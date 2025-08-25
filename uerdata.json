@@ -190,6 +190,12 @@
         "key": "PQISH",
         "expirydate": "25-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e24bdd6da98b55b0",
+        "key": "HAIQP",
+        "expirydate": "25-09-2025",
+        "Allowoffline": false
     }
     
     
