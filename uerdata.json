@@ -232,6 +232,12 @@
         "key": "JQOQHQ",
         "expirydate": "10-09-2025",
         "Allowoffline": false
-    }
+    },
+     {
+        "device_id": "6af8fbccd274b670",
+        "key": "DBVXM",
+        "expirydate": "10-09-2025",
+        "Allowoffline": false
+    },
     
 ]
