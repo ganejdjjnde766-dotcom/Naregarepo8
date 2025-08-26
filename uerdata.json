@@ -239,5 +239,11 @@
         "expirydate": "10-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "305d9fcb69e80b2d",
+        "key": "BIZOM",
+        "expirydate": "10-09-2025",
+        "Allowoffline": false
+    },
     
 ]
