@@ -208,6 +208,12 @@
         "key": "YQOSGX",
         "expirydate": "25-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e2f62c9243ca4f09",
+        "key": "JAPUQ",
+        "expirydate": "10-09-2025",
+        "Allowoffline": false
     }
     
     
