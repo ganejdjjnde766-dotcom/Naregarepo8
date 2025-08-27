@@ -241,13 +241,19 @@
     },
     {
         "device_id": "305d9fcb69e80b2d",
-        "key": "BIZOM",
+        "key": "BIZOMDejsgh",
         "expirydate": "10-09-2025",
         "Allowoffline": false
     },
     {
         "device_id": "e05e3b0958f71a50",
         "key": "BIZOM2",
+        "expirydate": "10-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "5be31d3a3f578a94",
+        "key": "BIZOM3",
         "expirydate": "10-09-2025",
         "Allowoffline": false
     }
