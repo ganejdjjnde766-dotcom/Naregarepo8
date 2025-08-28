@@ -256,6 +256,12 @@
         "key": "BIZOM3",
         "expirydate": "27-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "be8521e18f239406",
+        "key": "OAJAA",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
 ]
