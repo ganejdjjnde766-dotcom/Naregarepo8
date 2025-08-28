@@ -262,6 +262,12 @@
         "key": "OAJAA",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c5f43dc91e4eae3d",
+        "key": "HSAHO",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
 ]
