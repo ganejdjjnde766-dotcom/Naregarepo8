@@ -304,6 +304,12 @@
         "key": "HSOSJQ",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "aa8cb2ca33a09897",
+        "key": "JAISI",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
