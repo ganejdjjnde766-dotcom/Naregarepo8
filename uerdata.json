@@ -322,7 +322,13 @@
         "key": "FILDA",
         "expirydate": "28-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "55300643e627326a",
+        "key": "HQPQLS",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
+    },
     
     
 ]
