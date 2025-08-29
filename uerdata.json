@@ -334,6 +334,12 @@
         "key": "JAOAHO",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0d9e70ce6cf8bdd0",
+        "key": "KEKA2",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
