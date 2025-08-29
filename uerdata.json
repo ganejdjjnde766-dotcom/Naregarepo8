@@ -280,6 +280,13 @@
         "key": "KQPLA",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0790c0329b1e3cca",
+        "key": "UUWOP",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
+    
     
 ]
