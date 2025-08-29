@@ -274,6 +274,12 @@
         "key": "HAPAQ",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3726b067fc783108",
+        "key": "KQPLA",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
 ]
