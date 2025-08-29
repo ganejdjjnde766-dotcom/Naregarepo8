@@ -299,6 +299,12 @@
         "expirydate": "28-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "71c95f708c8b9eda",
+        "key": "HSOSJQ",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
+    }
     
     
 ]
