@@ -286,7 +286,13 @@
         "key": "UUWOP",
         "expirydate": "28-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "7e876edc4a2e0f60",
+        "key": "HROPA",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
+    },
     
     
 ]
