@@ -317,6 +317,12 @@
         "expirydate": "28-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "58e1a362397d7d9e",
+        "key": "FILDA",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
+    }
     
     
 ]
