@@ -293,6 +293,12 @@
         "expirydate": "28-09-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "afba9bc75e012fa8",
+        "key": "HAPLQ",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
+    },
     
     
 ]
