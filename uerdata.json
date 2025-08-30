@@ -388,6 +388,12 @@
         "key": "AXM25",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5faf8bce63dbd8ed",
+        "key": "NZZLZ",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
