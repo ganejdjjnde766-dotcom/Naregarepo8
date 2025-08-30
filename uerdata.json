@@ -346,6 +346,12 @@
         "key": "AGEQQC",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "eeb5be6d9f054f57",
+        "key": "FFASVA",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
