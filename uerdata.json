@@ -394,7 +394,12 @@
         "key": "NZZLZ",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "do61d0613211d46c9437",
+        "key": "HKQLQ",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
-    
     
 ]
