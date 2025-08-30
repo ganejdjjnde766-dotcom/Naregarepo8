@@ -340,6 +340,12 @@
         "key": "KEKA2",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "018c3f7a6ab2fad8",
+        "key": "AGEQQC",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
