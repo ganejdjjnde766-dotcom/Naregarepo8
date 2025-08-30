@@ -400,6 +400,12 @@
         "key": "HKQLQ",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3d54cf6c09b0d0ff",
+        "key": "JAJSI",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
 ]
