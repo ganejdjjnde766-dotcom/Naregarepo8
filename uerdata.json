@@ -406,6 +406,12 @@
         "key": "JAJSI",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8943f9896258e69f",
+        "key": "HSPSJ",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
 ]
