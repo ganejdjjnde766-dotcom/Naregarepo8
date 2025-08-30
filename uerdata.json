@@ -376,6 +376,12 @@
         "key": "FILDA28",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "afd290ae4ce1768e",
+        "key": "HQOAA",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
