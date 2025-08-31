@@ -472,7 +472,12 @@
         "key": "KEJAIK",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "1f4f4380edd7a983",
+        "key": "AIRHSJO",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
-    
     
 ]
