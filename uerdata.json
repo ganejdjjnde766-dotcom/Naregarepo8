@@ -448,6 +448,12 @@
         "key": "HSPALO",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "17e034eead6e61a0",
+        "key": "Genrali",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
