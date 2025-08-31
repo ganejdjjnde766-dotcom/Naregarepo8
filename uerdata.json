@@ -436,6 +436,12 @@
         "key": "HAPAHQL",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "67e66a227d157370",
+        "key": "HHAOLAL",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
