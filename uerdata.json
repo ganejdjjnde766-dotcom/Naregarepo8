@@ -478,6 +478,11 @@
         "key": "AIRHSJO",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ca2a625efa37d1fd",
+        "key": "FILDJWO",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
-    
 ]
