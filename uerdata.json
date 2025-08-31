@@ -430,6 +430,12 @@
         "key": "HSLAH",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8dba4674a301aec1",
+        "key": "HAPAHQL",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
