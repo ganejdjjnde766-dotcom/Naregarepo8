@@ -442,6 +442,12 @@
         "key": "HHAOLAL",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "72d95c1ce768e621",
+        "key": "HSPALO",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
