@@ -454,6 +454,12 @@
         "key": "Genrali",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ff8a362c371e7dff",
+        "key": "GSIOTN",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
