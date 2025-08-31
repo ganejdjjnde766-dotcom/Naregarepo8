@@ -424,6 +424,12 @@
         "key": "AZXOA",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ffb996db35003fde",
+        "key": "HSLAH",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
     
