@@ -484,5 +484,11 @@
         "key": "FILDJWO",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "48e412e8d286bad9",
+        "key": "AIRTQL",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
 ]
