@@ -412,6 +412,13 @@
         "key": "HSPSJ",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "27f7d43c7d40ce7e",
+        "key": "AIWYL",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
+    
     
 ]
