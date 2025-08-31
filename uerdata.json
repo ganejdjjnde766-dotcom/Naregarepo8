@@ -490,5 +490,11 @@
         "key": "AIRTQL",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d97e34c83460e55f",
+        "key": "FIAKOA",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
 ]
