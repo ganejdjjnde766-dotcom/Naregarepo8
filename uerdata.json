@@ -682,5 +682,11 @@
         "key": "FEWGQ",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2f4146d58e92eed9",
+        "key": "Ldwk",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
 ]
