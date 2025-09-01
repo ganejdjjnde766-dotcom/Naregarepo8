@@ -616,5 +616,11 @@
         "key": "P7P",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3b59301ade9f7175",
+        "key": "ARU",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
 ]
