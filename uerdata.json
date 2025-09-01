@@ -502,5 +502,12 @@
         "key": "KHAKH",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "45671690fe77c983",
+        "key": "HSKSO",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
+    
 ]
