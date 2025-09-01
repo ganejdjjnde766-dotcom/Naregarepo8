@@ -575,4 +575,10 @@
         "expirydate": "01-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "d5b90875edfc4529",
+        "key": "PKIRIL",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    },
 ]
