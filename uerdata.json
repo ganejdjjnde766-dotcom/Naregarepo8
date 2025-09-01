@@ -677,5 +677,10 @@
         "expirydate": "01-10-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "c25365e40d4b4a83",
+        "key": "FEWGQ",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    }
 ]
