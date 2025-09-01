@@ -598,5 +598,11 @@
         "key": "738L4",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "637e1f5c5b5bd60c",
+        "key": "MU3RS",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
 ]
