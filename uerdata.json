@@ -628,5 +628,11 @@
         "key": "YRQ",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3c89c0b149030fcf",
+        "key": "YRL",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
 ]
