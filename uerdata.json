@@ -611,4 +611,10 @@
         "expirydate": "01-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "1c9c7e05d80fbb6d",
+        "key": "P7P",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    }
 ]
