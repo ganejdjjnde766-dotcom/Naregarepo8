@@ -569,5 +569,10 @@
         "expirydate": "30-12-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "c80fa2f9bafdecaf",
+        "key": "US28ZL",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    },
 ]
