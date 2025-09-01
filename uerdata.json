@@ -641,4 +641,10 @@
         "expirydate": "01-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "bb4caf49c8069df4",
+        "key": "G63",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    },
 ]
