@@ -622,5 +622,11 @@
         "key": "ARU",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "be0ecada67c23bea",
+        "key": "YRQ",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
 ]
