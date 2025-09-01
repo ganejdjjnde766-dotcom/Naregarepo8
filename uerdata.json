@@ -604,5 +604,11 @@
         "key": "MU3RS",
         "expirydate": "01-10-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "708f3b4967490f37",
+        "key": "OUX",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    },
 ]
