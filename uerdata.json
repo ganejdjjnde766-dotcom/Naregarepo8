@@ -508,6 +508,12 @@
         "key": "HSKSO",
         "expirydate": "28-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "47cef2df20106b1b",
+        "key": "GAOQH",
+        "expirydate": "28-09-2025",
+        "Allowoffline": false
     }
     
 ]
