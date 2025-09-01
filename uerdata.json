@@ -658,5 +658,12 @@
         "key": "GAL9",
         "expirydate": "01-10-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "d8204d8c79f3ae84",
+        "key": "FA24",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    },
+    
 ]
