@@ -665,5 +665,17 @@
         "expirydate": "01-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "16cc2d1a7e4e42a0",
+        "key": "GAL9",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "e6cf5ea53866e604",
+        "key": "SFFS",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    },
     
 ]
