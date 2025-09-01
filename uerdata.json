@@ -521,6 +521,23 @@
         "expirydate": "01-10-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "45b23dd96a3a690c",
+        "key": "HAOAL",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "e0c6f67378ca6258",
+        "key": "GAOQH",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "0af5dc366a6dd695",
+        "key": "JQLLP",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    }
     
 ]
