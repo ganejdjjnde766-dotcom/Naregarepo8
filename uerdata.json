@@ -592,5 +592,11 @@
         "key": "2W0EIA",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8b4507ca8d33f91e",
+        "key": "738L4",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
 ]
