@@ -562,6 +562,12 @@
         "key": "MQPQ5",
         "expirydate": "01-10-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "74be1f1b9d9bb7bd",
+        "key": "4MONT",
+        "expirydate": "30-12-2025",
+        "Allowoffline": false
+    },
     
 ]
