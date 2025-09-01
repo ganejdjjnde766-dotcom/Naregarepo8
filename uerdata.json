@@ -514,6 +514,13 @@
         "key": "GAOQH",
         "expirydate": "28-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "e0c6f67378ca6258",
+        "key": "HSLQH",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    },
+    
     
 ]
