@@ -557,5 +557,11 @@
         "expirydate": "01-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "2dfdee18211ecc9c",
+        "key": "MQPQ5",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    }
     
 ]
