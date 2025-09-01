@@ -647,4 +647,10 @@
         "expirydate": "01-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "3c89c0b149030fcf",
+        "key": "nal8",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    }
 ]
