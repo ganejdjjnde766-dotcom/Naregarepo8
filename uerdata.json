@@ -2131,4 +2131,10 @@
         "expirydate": "01-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "9f10e85794861a2b",
+        "key": "WY23",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    },
 ]
