@@ -700,6 +700,12 @@
         "key": "KA7L",
         "expirydate": "01-10-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "ac3c2ade9948d3fc",
+        "key": "06U",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    },
     
 ]
