@@ -1936,6 +1936,18 @@
         "key": "JOAI5",
         "expirydate": "02-10-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "cc2e8de19f332e17",
+        "key": "HW2W31",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "828b83bbd5ff7dcd",
+        "key": "JHA185",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
+    },
     
 ]
