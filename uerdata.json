@@ -1930,6 +1930,12 @@
         "key": "GKDJ3",
         "expirydate": "02-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "828b83bbd5ff7dcd",
+        "key": "JOAI5",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
     }
     
 ]
