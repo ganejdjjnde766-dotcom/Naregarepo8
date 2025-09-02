@@ -707,5 +707,11 @@
         "expirydate": "01-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "c3a88a22c411ec95",
+        "key": "DX5",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    },
     
 ]
