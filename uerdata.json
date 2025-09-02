@@ -1901,11 +1901,5 @@
         "key": "WY23",
         "expirydate": "01-10-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "256ca772603fd754",
-        "key": "LIAOB87",
-        "expirydate": "15-10-2025",
-        "Allowoffline": false
-    }       
+    }
 ]
