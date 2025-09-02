@@ -1770,5 +1770,17 @@
         "expirydate": "01-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "d5b90875edfc4529",
+        "key": "PKIRIL",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "0c28c7c009ca9e66",
+        "key": "JAPALAPL",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    }
     
 ]
