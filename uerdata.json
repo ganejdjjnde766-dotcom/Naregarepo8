@@ -1925,5 +1925,11 @@
         "expirydate": "02-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "5d36a11292f1422e",
+        "key": "GKDJ3",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
+    }
     
 ]
