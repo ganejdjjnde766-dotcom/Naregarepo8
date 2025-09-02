@@ -688,5 +688,11 @@
         "key": "Ldwk",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "49b1d2be8650955f",
+        "key": "IKALL",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
 ]
