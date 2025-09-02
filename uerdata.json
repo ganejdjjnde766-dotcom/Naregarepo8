@@ -1918,6 +1918,18 @@
         "key": "JALQ",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "311642905d384ede",
+        "key": "GAOAY",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "40c6ff9138942cc6",
+        "key": "JAL6Q",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
     }
     
 ]
