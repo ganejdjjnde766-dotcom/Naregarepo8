@@ -84,12 +84,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "aa1aca46ce30b346",
-        "key": "HQOAQDeleteddkagss",
-        "expirydate": "24-09-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "8674c2ff22d56487",
         "key": "HSOWQ",
         "expirydate": "24-09-2025",
@@ -212,12 +206,6 @@
     {
         "device_id": "aa8cb2ca33a09897",
         "key": "JAISI",
-        "expirydate": "28-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "49ea483a35cf4180",
-        "key": "BIZ9delet",
         "expirydate": "28-09-2025",
         "Allowoffline": false
     },
@@ -1261,48 +1249,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "5a0c1752eb348598",
-        "key": "Deletediwujsbx",
-        "expirydate": "20-08-2025",
-        "Allowoffline": false
-    },
-     {
-        "device_id": "256ca772603fd754",
-        "key": "Deleted1",
-        "expirydate": "20-09-2025",
-        "Allowoffline": false
-     },
-    {
-        "device_id": "138413c2c8af4a91",
-        "key": "Deleted82727",
-        "expirydate": "20-08-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "a04c46c866845d42",
-        "key": "Deleted826",
-        "expirydate": "20-08-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "cc0307f8453c4f5c",
-        "key": "Deleted82626",
-        "expirydate": "20-08-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "4536cc06d69f5568",
-        "key": "Deleted&172",
-        "expirydate": "20-08-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "0c28c7c009ca9e66",
-        "key": "Deleted",
-        "expirydate": "20-09-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "e788082b15a43372",
         "key": "Axom",
         "expirydate": "20-09-2025",
@@ -1476,7 +1422,7 @@
         "expirydate": "27-09-2025",
         "Allowoffline": false
     },
-     {
+    {
         "device_id": "6af8fbccd274b670",
         "key": "DBVXM",
         "expirydate": "27-09-2025",
