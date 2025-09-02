@@ -1949,5 +1949,11 @@
         "expirydate": "02-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "7110f1e7585e7325",
+        "key": "HAL04",
+        "expirydate": "02-10-2025",
+        "Allowoffline": false
+    },
     
 ]
