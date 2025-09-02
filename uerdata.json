@@ -694,5 +694,12 @@
         "key": "IKALL",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "728232194757349e",
+        "key": "KA7L",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
     }
+    
 ]
