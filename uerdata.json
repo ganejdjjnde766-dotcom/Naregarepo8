@@ -1990,6 +1990,12 @@
         "key": "HAO7",
         "expirydate": "03-10-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "f02976e301c9b964",
+        "key": "HAI72",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    },
     
 ]
