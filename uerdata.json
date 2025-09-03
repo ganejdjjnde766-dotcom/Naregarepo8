@@ -1978,5 +1978,11 @@
         "key": "ZAI4",
         "expirydate": "03-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d82d3c85f334c117",
+        "key": "SG42",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
     }
 ]
