@@ -1260,12 +1260,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "e91b6ada67bc8480",
-        "key": "Channeldeletdahjsgs",
-        "expirydate": "20-09-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "4870196a4457e406",
         "key": "GOWPQ",
         "expirydate": "20-09-2025",
@@ -1299,12 +1293,6 @@
         "device_id": "a2b1bfbc3881bb98",
         "key": "OLLA1",
         "expirydate": "20-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "aed3e6a4bb90249f",
-        "key": "MitrDeletssaa",
-        "expirydate": "22-09-2025",
         "Allowoffline": false
     },
     {
@@ -1346,18 +1334,6 @@
     {
         "device_id": "510d8229e1b4c229",
         "key": "HAOQV",
-        "expirydate": "24-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "aa1aca46ce30b346",
-        "key": "HQOAQDeleteddkagss",
-        "expirydate": "24-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "9470c5afd4be8426",
-        "key": "YQPSMDeleted",
         "expirydate": "24-09-2025",
         "Allowoffline": false
     },
@@ -1494,12 +1470,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "49ea483a35cf4180",
-        "key": "BIZ9delet",
-        "expirydate": "28-09-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "58e1a362397d7d9e",
         "key": "FILDA",
         "expirydate": "28-09-2025",
@@ -1562,12 +1532,6 @@
     {
         "device_id": "afd290ae4ce1768e",
         "key": "HQOAA",
-        "expirydate": "28-09-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "cb1e82e8f36def1f",
-        "key": "AXM25Deletd",
         "expirydate": "28-09-2025",
         "Allowoffline": false
     },
