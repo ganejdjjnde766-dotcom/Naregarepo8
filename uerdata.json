@@ -1970,7 +1970,13 @@
     {
         "device_id": "197684ea04d627eb",
         "key": "JJ54",
-        "expirydate": "02-10-2025",
+        "expirydate": "03-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "129798eb33aa1fef",
+        "key": "ZAI4",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    }
 ]
