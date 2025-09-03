@@ -2824,6 +2824,12 @@
         "expirydate": "03-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "3a762f0686128877",
+        "key": "HSP14",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    }
     
 ]
     
