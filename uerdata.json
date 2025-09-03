@@ -2781,7 +2781,49 @@
         "key": "HG75Q",
         "expirydate": "03-10-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "ab504cb92dc89d18",
+        "key": "HIS57",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "4ba3f15440f4e7d6",
+        "key": "JAO6I",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "197684ea04d627eb",
+        "key": "JJ54",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "129798eb33aa1fef",
+        "key": "ZAI4",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d82d3c85f334c117",
+        "key": "SG42",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "615cd1d46ba71386",
+        "key": "HAO7",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "69ce7f4e25419aeb",
+        "key": "UKAO9",
+        "expirydate": "03-12-2025",
+        "Allowoffline": false
+    },
     
 ]
     
