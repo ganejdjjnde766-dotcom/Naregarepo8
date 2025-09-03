@@ -2829,6 +2829,12 @@
         "key": "HSP14",
         "expirydate": "01-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "efc8610a1b8d9aa0",
+        "key": "HRONO",
+        "expirydate": "04-10-2025",
+        "Allowoffline": false
     }
     
 ]
