@@ -1984,5 +1984,12 @@
         "key": "SG42",
         "expirydate": "03-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "615cd1d46ba71386",
+        "key": "HAO7",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
     }
+    
 ]
