@@ -2871,6 +2871,12 @@
         "key": "LW60",
         "expirydate": "05-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "23e32d9d283b2c65",
+        "key": "GH682",
+        "expirydate": "05-10-2025",
+        "Allowoffline": false
     }
     
 ]
