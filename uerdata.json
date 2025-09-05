@@ -2865,6 +2865,12 @@
         "key": "LZI0",
         "expirydate": "05-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "af58a09b7ea0d434",
+        "key": "LW60",
+        "expirydate": "05-10-2025",
+        "Allowoffline": false
     }
     
 ]
