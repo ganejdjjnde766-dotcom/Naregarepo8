@@ -2877,6 +2877,12 @@
         "key": "GH682",
         "expirydate": "05-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "63cc4d48673f0c58",
+        "key": "HX8Y2",
+        "expirydate": "05-10-2025",
+        "Allowoffline": false
     }
     
 ]
