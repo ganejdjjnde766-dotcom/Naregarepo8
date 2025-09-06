@@ -2883,6 +2883,12 @@
         "key": "HX8Y2",
         "expirydate": "05-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ee6c8e77e0593db5",
+        "key": "HAL82",
+        "expirydate": "05-10-2025",
+        "Allowoffline": false
     }
     
 ]
