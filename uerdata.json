@@ -2850,19 +2850,19 @@
     },
     {
         "device_id": "ba6a5a27cc856234",
-        "key": "JA58Deo62",
+        "key": "JA58",
         "expirydate": "05-10-2025",
         "Allowoffline": false
     },
     {
         "device_id": "ff92635fd0d05eb5",
-        "key": "JS56Drohs72",
+        "key": "JS56",
         "expirydate": "05-10-2025",
         "Allowoffline": false
     },
     {
         "device_id": "c83eddbd5062ffe8",
-        "key": "LZIHaia70",
+        "key": "LZI0",
         "expirydate": "05-10-2025",
         "Allowoffline": false
     },
@@ -2896,6 +2896,18 @@
         "expirydate": "05-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "2847f56095d6de92",
+        "key": "MAL71",
+        "expirydate": "07-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "cc662b41670e7e85",
+        "key": "XZL6",
+        "expirydate": "07-10-2025",
+        "Allowoffline": false
+    }
     
 ]
     
