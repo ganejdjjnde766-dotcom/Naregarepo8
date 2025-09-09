@@ -1,4 +1,4 @@
-[ 
+as[ 
     {
         "device_id": "e788082b15a43372",
         "key": "Axom",
@@ -2906,6 +2906,18 @@
         "device_id": "cc662b41670e7e85",
         "key": "XZL6",
         "expirydate": "07-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "4c52de1b43afb511",
+        "key": "HWO18",
+        "expirydate": "10-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "452de65587b409e2",
+        "key": "G18L",
+        "expirydate": "10-10-2025",
         "Allowoffline": false
     }
     
