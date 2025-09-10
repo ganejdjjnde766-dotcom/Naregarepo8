@@ -2925,6 +2925,12 @@
         "key": "H5XL",
         "expirydate": "10-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dc16ac9694aee2f7",
+        "key": "A27B",
+        "expirydate": "10-10-2025",
+        "Allowoffline": false
     }
 ]
     
