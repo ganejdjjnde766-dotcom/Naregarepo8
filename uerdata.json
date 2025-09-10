@@ -2931,6 +2931,12 @@
         "key": "A27B",
         "expirydate": "10-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4f0bb4a0d33a4f4a",
+        "key": "NAGE6",
+        "expirydate": "10-10-2025",
+        "Allowoffline": false
     }
 ]
     
