@@ -2955,6 +2955,12 @@
         "key": "AGI71",
         "expirydate": "11-10-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "bece96f623029916",
+        "key": "ZOX8",
+        "expirydate": "11-10-2025",
+        "Allowoffline": false
+    },
 ]
     
