@@ -2943,6 +2943,18 @@
         "key": "XAT27",
         "expirydate": "10-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cbfe3abffc3a9a82",
+        "key": "XAT27",
+        "expirydate": "10-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "b8057b25487a587d",
+        "key": "AGI71",
+        "expirydate": "11-10-2025",
+        "Allowoffline": false
     }
 ]
     
