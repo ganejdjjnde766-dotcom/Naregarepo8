@@ -2968,5 +2968,12 @@
         "expirydate": "13-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "4f16ae624510bd17",
+        "key": "HAI27",
+        "expirydate": "14-10-2025",
+        "Allowoffline": false
+    },
+    
 ]
     
