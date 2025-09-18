@@ -2998,6 +2998,11 @@
         "expirydate": "16-10-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "557c0d56f79ce683",
+        "key": "HAK72",
+        "expirydate": "20-09-2025",
+        "Allowoffline": false
+    },
 ]
     
