@@ -3009,7 +3009,13 @@
         "key": "HA8170",
         "expirydate": "20-10-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "d1bb9cb719d8f7b3",
+        "key": "AO770",
+        "expirydate": "20-10-2025",
+        "Allowoffline": false
+    },
     
 ]
     
