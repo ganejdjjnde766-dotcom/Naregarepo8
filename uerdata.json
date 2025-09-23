@@ -3016,6 +3016,17 @@
         "expirydate": "20-10-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "4813d1edadc371c3",
+        "key": "AO191",
+        "expirydate": "23-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "d1bb971q19d8f7b3",
+        "key": "AO8270",
+        "expirydate": "23-10-2025",
+        "Allowoffline": false
+    },
 ]
     
