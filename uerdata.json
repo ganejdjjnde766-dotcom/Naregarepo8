@@ -3033,6 +3033,12 @@
         "key": "HAIJDelwtaju81",
         "expirydate": "23-10-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "e7e098f09b421baa",
+        "key": "Prim1",
+        "expirydate": "25-10-2025",
+        "Allowoffline": false
+    },
 ]
     
