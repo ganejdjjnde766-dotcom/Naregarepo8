@@ -2927,5 +2927,11 @@
         "expirydate": "25-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "31d18da94f65844b",
+        "key": "HAOO18",
+        "expirydate": "01-10-2025",
+        "Allowoffline": false
+    }
 ]
     
