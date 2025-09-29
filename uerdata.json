@@ -2938,6 +2938,12 @@
         "key": "HAIA81",
         "expirydate": "29-09-2025",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "afba9bc75e012fa8",
+        "key": "HRLO1",
+        "expirydate": "29-10-2025",
+        "Allowoffline": false
+    },
 ]
     
