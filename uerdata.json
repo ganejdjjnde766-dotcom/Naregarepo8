@@ -2993,5 +2993,11 @@
         "expirydate": "29-10-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "f6432ca5216ff1ae",
+        "key": "HAI76",
+        "expirydate": "04-11-2025",
+        "Allowoffline": false
+    },
 ]
     
