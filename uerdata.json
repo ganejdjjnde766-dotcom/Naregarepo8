@@ -1,5 +1,4 @@
 [ 
-
     {
         "device_id": "e2f62c9243ca4f09",
         "key": "JAPUQ",
@@ -2999,5 +2998,18 @@
         "expirydate": "04-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "ed881d6c7b74fb3d",
+        "key": "HAIA61",
+        "expirydate": "04-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "52d9971b3d1d0cd1",
+        "key": "Haiaj27",
+        "expirydate": "04-11-2025",
+        "Allowoffline": false
+    },
+    
 ]
     
