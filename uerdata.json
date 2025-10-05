@@ -3010,6 +3010,19 @@
         "expirydate": "04-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "a57f6cfa30fb4ed4",
+        "key": "JHWO27",
+        "expirydate": "06-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ac3a0c5870ea3901",
+        "key": "HAO276",
+        "expirydate": "06-11-2025",
+        "Allowoffline": false
+    },
+    
     
 ]
     
