@@ -3040,6 +3040,12 @@
         "expirydate": "09-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "e2f62c9243ca4f09",
+        "key": "82HEA",
+        "expirydate": "10-11-2025",
+        "Allowoffline": false
+    },
     
     
 ]
