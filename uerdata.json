@@ -3046,6 +3046,12 @@
         "expirydate": "10-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "d98b606ac3819ca7",
+        "key": "w10EA",
+        "expirydate": "11-11-2025",
+        "Allowoffline": false
+    },
     
     
 ]
