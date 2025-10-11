@@ -3052,5 +3052,12 @@
         "expirydate": "11-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "b8057b25487a587d",
+        "key": "AH260",
+        "expirydate": "11-11-2025",
+        "Allowoffline": false
+    },
+    
 ]
     
