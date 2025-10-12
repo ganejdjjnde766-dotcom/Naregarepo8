@@ -228,6 +228,11 @@
         "expirydate": "13-11-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "e60f770ebbc72235",
+        "key": "HWOU276",
+        "expirydate": "08-11-2025",
+        "Allowoffline": false
+    },
 ]
     
