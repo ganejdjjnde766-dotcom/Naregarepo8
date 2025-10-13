@@ -228,5 +228,11 @@
         "expirydate": "08-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "f3067952332465fd",
+        "key": "JOS280",
+        "expirydate": "13-11-2025",
+        "Allowoffline": false
+    },
 ]
     
