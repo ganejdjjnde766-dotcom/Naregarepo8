@@ -252,6 +252,11 @@
         "expirydate": "25-10-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "85150c93c113909b",
+        "key": "B0Q00",
+        "expirydate": "14-11-2025",
+        "Allowoffline": false
+    },
 ]
     
