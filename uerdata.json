@@ -246,5 +246,12 @@
         "expirydate": "13-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "ac0a39fc88216b6d",
+        "key": "F0Q00",
+        "expirydate": "25-11-2025",
+        "Allowoffline": false
+    },
+    
 ]
     
