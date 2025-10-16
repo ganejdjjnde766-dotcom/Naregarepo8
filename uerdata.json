@@ -282,7 +282,12 @@
         "expirydate": "16-11-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "ac9476562521de9b",
+        "key": "Phona2",
+        "expirydate": "16-11-2025",
+        "Allowoffline": false
+    },
     
     
 ]
