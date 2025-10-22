@@ -294,7 +294,12 @@
         "expirydate": "11-11-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "d1bb9cb719d8f7b3",
+        "key": "YWU27",
+        "expirydate": "27-11-2025",
+        "Allowoffline": false
+    },
     
 ]
     
