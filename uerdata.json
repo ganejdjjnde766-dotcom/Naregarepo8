@@ -306,6 +306,11 @@
         "expirydate": "24-11-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "ab504cb92dc89d18",
+        "key": "Honde",
+        "expirydate": "24-11-2025",
+        "Allowoffline": false
+    },
 ]
     
