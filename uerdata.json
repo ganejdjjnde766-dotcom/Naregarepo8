@@ -246,5 +246,11 @@
         "expirydate": "1-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "fb954def81cfcd96",
+        "key": "HJU68",
+        "expirydate": "10-11-2025",
+        "Allowoffline": false
+    },
 ]
     
