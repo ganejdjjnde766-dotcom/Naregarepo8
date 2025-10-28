@@ -252,5 +252,11 @@
         "expirydate": "10-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "6c0880a81149f467",
+        "key": "DEONX",
+        "expirydate": "27-11-2025",
+        "Allowoffline": false
+    },
 ]
     
