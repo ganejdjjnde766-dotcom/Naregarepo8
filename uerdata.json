@@ -264,6 +264,12 @@
         "expirydate": "27-11-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "65ada89851264f19",
+        "key": "JAAXL",
+        "expirydate": "01-11-2025",
+        "Allowoffline": false
+    },
     
 ]
     
