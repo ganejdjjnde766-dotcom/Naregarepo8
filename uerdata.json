@@ -282,6 +282,11 @@
         "expirydate": "05-12-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "3e6512dd02c4e622",
+        "key": "JIOXYL",
+        "expirydate": "05-12-2025",
+        "Allowoffline": false
+    },
 ]
     
