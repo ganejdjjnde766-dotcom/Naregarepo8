@@ -276,6 +276,12 @@
         "expirydate": "01-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "855170425d382a19",
+        "key": "JIOYL",
+        "expirydate": "05-12-2025",
+        "Allowoffline": false
+    },
     
 ]
     
