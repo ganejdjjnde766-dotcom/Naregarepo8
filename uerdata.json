@@ -294,5 +294,11 @@
         "expirydate": "05-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "af17f603f9256f5b",
+        "key": "HAIA08",
+        "expirydate": "06-12-2025",
+        "Allowoffline": false
+    },
 ]
     
