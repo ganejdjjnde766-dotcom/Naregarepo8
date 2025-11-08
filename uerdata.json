@@ -306,5 +306,12 @@
         "expirydate": "06-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "d203dd689b6c91f6",
+        "key": "PHOAHL",
+        "expirydate": "11-11-2025",
+        "Allowoffline": false
+    },
+    
 ]
     
