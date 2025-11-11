@@ -312,6 +312,11 @@
         "expirydate": "11-12-2025",
         "Allowoffline": false
     },
-    
+    {
+        "device_id": "c833aa41e34ec71c",
+        "key": "ZINAH",
+        "expirydate": "11-12-2025",
+        "Allowoffline": false
+    },
 ]
     
