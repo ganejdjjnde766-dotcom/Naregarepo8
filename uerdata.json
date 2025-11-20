@@ -318,5 +318,11 @@
         "expirydate": "11-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "8794ad125f3f777d",
+        "key": "XRIQP",
+        "expirydate": "20-12-2025",
+        "Allowoffline": false
+    },
 ]
     
