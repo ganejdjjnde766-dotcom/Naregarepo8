@@ -324,5 +324,11 @@
         "expirydate": "20-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "3ac0c008b6f12534",
+        "key": "HWI820",
+        "expirydate": "02-01-2026",
+        "Allowoffline": false
+    },
 ]
     
